@@ -1,0 +1,42 @@
+.container {
+    margin: 20px;
+}
+
+.image-div {
+    margin-right: 100px;
+}
+
+img {
+    width: 500px;
+}
+
+.text-div {
+    /* float: left; */
+}
+
+.content {
+    display: flex;
+    padding: 30px;
+}
+
+.big-text {
+    font-size: 40px;
+    word-spacing: 10px;
+}
+
+.small-text {
+    font-weight: lighter;
+}
+
+#homepage-button {
+    background-color: #333333;
+    border-color: #333333;
+    color: #ffffff;
+    padding: 10px;
+    font-size: 10px;
+}
+
+footer {
+    text-align: center;
+    bottom: 0;
+}
